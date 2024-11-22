@@ -3,7 +3,7 @@
 - 🌱 C++, Python.
 - 💞️ workout.
 - 📫 workaholic.
-- ⚡ communication is keu to success
+- ⚡ communication is key to success
 
 
 <!---
