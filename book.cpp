@@ -13,5 +13,5 @@ using namespace std;
 
     void book :: printInfo(){
         cout << "the book is "<<getName() <<" and the author is ";
-        cout << getAuthor() <<" with " << getPage() <<" pages."<< endl;
+    
     }
